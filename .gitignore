@@ -1,0 +1,15 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+.vscode/
+src/_locales/
+.DS_Store
+.tmp/
+.merlin
+.bsb.lock
+/lib
+*.bs.js

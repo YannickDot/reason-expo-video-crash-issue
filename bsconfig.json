@@ -1,0 +1,29 @@
+{
+    "name": "chefclub-mobile",
+    "reason": {
+        "react-jsx": 2
+    },
+    "bsc-flags": [
+        "-bs-super-errors"
+    ],
+    "package-specs": [
+        {
+            "module": "commonjs",
+            "in-source": true
+        }
+    ],
+    "suffix": ".bs.js",
+    "namespace": true,
+    "bs-dependencies": [
+        "bs-react-native",
+        "reason-react",
+        "reason-expo"
+    ],
+    "sources": [
+        {
+            "dir": "re",
+            "subdirs": true
+        }
+    ],
+    "refmt": 3
+}
